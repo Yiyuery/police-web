@@ -1,3 +1,9 @@
+# ENV
+    1、jdk1.7+
+    2、tomcat7.0+
+    3、maven3.0+
+    4、mysql5.71+
+
 # 数据交互模板
 
 1、配置sql语句
