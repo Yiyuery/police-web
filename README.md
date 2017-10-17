@@ -3,6 +3,7 @@
     2、tomcat7.0+
     3、maven3.0+
     4、mysql5.71+
+    5、jfianl3.2+
 
 # 数据交互模板
 
