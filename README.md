@@ -76,7 +76,8 @@ public class DataController extends Controller{
 ```
 
 5、接口管理类(辅助代码管理：仅关注数据查询可跳过)
-> AppManagers 
-    模块、库、业务转发
-> MapperManager
-    数据库查询针对表进行sql查询接口管理
+
+    > AppManagers 
+        模块、库、业务转发
+    > MapperManager
+        数据库查询针对表进行sql查询接口管理
